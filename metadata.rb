@@ -1,0 +1,7 @@
+name 'hadouken'
+maintainer 'Brandon Raabe'
+maintainer_email 'brandocorp@gmail.com'
+license 'apache2'
+description 'Installs/Configures hadouken'
+long_description 'Installs/Configures hadouken'
+version '0.1.0'
